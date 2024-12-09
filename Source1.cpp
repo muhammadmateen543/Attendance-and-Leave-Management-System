@@ -1,7 +1,3 @@
-/*
-Usman Amin(22L-6916)
-Muhammad Mateen(22L-6826)
-*/
 #include<iostream>
 #include<string>
 #include<vector>
